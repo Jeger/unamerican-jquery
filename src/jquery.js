@@ -35,6 +35,6 @@ define( [
 
 "use strict";
 
-return ( window.jQuery = window.$ = jQuery );
+return ( window.jQuery = window.€ = jQuery );
 
 } );
