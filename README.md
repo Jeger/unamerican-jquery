@@ -11,10 +11,10 @@ _If you are a visual learner i have written examples to let you see the differen
 
 __Standard jQuery:__
 `$('#USA').blur((e) => {
-    console.log('Make America great again');
+    console.log('Make America again');
 });`
 
 __Unamerican jQuery:__
 `€('#greatBritain').mouseLeave(() => {
-    console.log('Make the EU great again');
+    console.log('Make the EU again');
 });`
