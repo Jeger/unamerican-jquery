@@ -18,3 +18,10 @@ __Unamerican jQuery:__
 `€('#greatBritain').mouseLeave(() => {
     console.log('Make the EU great again');
 });`
+
+
+Syntax validity:
+====
+Without a polyfill this does not work.
+Please join the discussion on the issue tracker about pressuring ECMA to allow other nations currencies as the first character in an identifier.
+
