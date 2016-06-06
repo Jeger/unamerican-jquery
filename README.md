@@ -15,7 +15,7 @@ __Standard jQuery:__
 });`
 
 __Unamerican jQuery:__
-`€('#greatBritain').mouseLeave(() => {
+`€('#Cyprus').mouseLeave(() => {
     console.log('Make the EU great again');
 });`
 
